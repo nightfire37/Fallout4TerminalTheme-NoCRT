@@ -11,10 +11,10 @@
  * @invite 6qd3SkP6Ch
 */
 
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/main.css');
+@import url('https://raw.githubusercontent.com/nightfire37/Fallout4TerminalTheme-NoCRT/main/css/main.css');
 /* ^ THIS IS THE MAIN IMPORT. DO NOT TOUCH THIS OR THE THEME WILL BREAK. ^ */
 
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/disableCRT.css'); */
+@import url('https://raw.githubusercontent.com/nightfire37/Fallout4TerminalTheme-NoCRT/main/css/disableCRT.css'); */
 /* ^ UNCOMMENT THIS IMPORT IF YOU WANT TO REMOVE THE CRT EFFECT ^ */
 
 /* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
