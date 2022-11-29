@@ -1,3 +1,6 @@
+<h3>This is a fork of the Fallout 4 Terminal by Bates#7075. My fork is removing the CRT overlay and modifying other various things. All the credit goes to him for most of the design elements of this theme.</h3>
+<br/>
+<br/>
 <div align="center">
   <a href="https://discord.gg/6qd3SkP6Ch" target="_blank"><img src="https://img.shields.io/discord/931137677695266856?label=Discord&logo=Discord"></img></a>
   <a href="https://www.paypal.com/paypalme/floriancegledi" target="_blank"><img src="https://img.shields.io/badge/PayPal-Support%20me%3F-blue"></img></a>
