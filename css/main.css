@@ -181,27 +181,27 @@ body *, .userPopout-3XzG_A * {
 }
 
 .wrapper-NhbLHG:hover > .unread-36eUEm {
-  background-color: var(--highlight);
+  background-color: var(--background);
 }
 
 .unreadPill-3nEWYM {
-  background-color: var(--highlight);
-  color: var(--background);
+  background-color: var(--background);
+  color: var(--highlight);
 }
 
 .guildSeparator-33mFX6 {
-  background-color: var(--highlight);
+  background-color: var(--background);
   border-radius: 2px;
 }
 
 .unreadPillCapStroke-1nE1Q8 {
   color: var(--highlight);
-  fill: var(--highlight);
+  fill: var(--background);
 }
 
 .bar-2eAyLE {
-  background-color: var(--highlight);
-  color: var(--background);
+  background-color: var(--background);
+  color: var(--highlight);
 }
 
 /* --== Re-color blue/gray button(s) ==-- */
